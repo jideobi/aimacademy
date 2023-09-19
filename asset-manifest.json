@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/aimacademy/static/css/main.c5eec42d.css",
-    "main.js": "/aimacademy/static/js/main.1a58b354.js",
-    "static/js/787.50e30472.chunk.js": "/aimacademy/static/js/787.50e30472.chunk.js",
-    "static/media/logo.svg": "/aimacademy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/aimacademy/static/css/main.9eb43880.css",
+    "main.js": "/aimacademy/static/js/main.2b78ecb1.js",
     "index.html": "/aimacademy/index.html",
-    "main.c5eec42d.css.map": "/aimacademy/static/css/main.c5eec42d.css.map",
-    "main.1a58b354.js.map": "/aimacademy/static/js/main.1a58b354.js.map",
-    "787.50e30472.chunk.js.map": "/aimacademy/static/js/787.50e30472.chunk.js.map"
+    "main.9eb43880.css.map": "/aimacademy/static/css/main.9eb43880.css.map",
+    "main.2b78ecb1.js.map": "/aimacademy/static/js/main.2b78ecb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5eec42d.css",
-    "static/js/main.1a58b354.js"
+    "static/css/main.9eb43880.css",
+    "static/js/main.2b78ecb1.js"
   ]
 }
