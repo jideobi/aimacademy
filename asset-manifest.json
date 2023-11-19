@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aimacademy/static/css/main.ccfae29f.css",
-    "main.js": "/aimacademy/static/js/main.ad3eeae7.js",
+    "main.js": "/aimacademy/static/js/main.f6ca3d88.js",
     "index.html": "/aimacademy/index.html",
     "main.ccfae29f.css.map": "/aimacademy/static/css/main.ccfae29f.css.map",
-    "main.ad3eeae7.js.map": "/aimacademy/static/js/main.ad3eeae7.js.map"
+    "main.f6ca3d88.js.map": "/aimacademy/static/js/main.f6ca3d88.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfae29f.css",
-    "static/js/main.ad3eeae7.js"
+    "static/js/main.f6ca3d88.js"
   ]
 }
