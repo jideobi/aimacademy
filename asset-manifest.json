@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aimacademy/static/css/main.50c19035.css",
-    "main.js": "/aimacademy/static/js/main.f23ade7d.js",
+    "main.css": "/aimacademy/static/css/main.73519027.css",
+    "main.js": "/aimacademy/static/js/main.4c16503f.js",
     "static/media/Logo.png": "/aimacademy/static/media/Logo.f7c1556db2229218b295.png",
     "static/media/Logi.jpeg": "/aimacademy/static/media/Logi.9f9cf68853d59f1a88fa.jpeg",
     "static/media/homeindex.jpeg": "/aimacademy/static/media/homeindex.3132f15e0b761905639a.jpeg",
     "index.html": "/aimacademy/index.html",
-    "main.50c19035.css.map": "/aimacademy/static/css/main.50c19035.css.map",
-    "main.f23ade7d.js.map": "/aimacademy/static/js/main.f23ade7d.js.map"
+    "main.73519027.css.map": "/aimacademy/static/css/main.73519027.css.map",
+    "main.4c16503f.js.map": "/aimacademy/static/js/main.4c16503f.js.map"
   },
   "entrypoints": [
-    "static/css/main.50c19035.css",
-    "static/js/main.f23ade7d.js"
+    "static/css/main.73519027.css",
+    "static/js/main.4c16503f.js"
   ]
 }
